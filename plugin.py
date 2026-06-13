@@ -20,7 +20,7 @@ plugin = NekroPlugin(
     description="针对群聊和私聊分别提供白名单、黑名单、不拦截三种过滤模式。",
     version="3.0.0",
     author="Teeea",
-    url="https://github.com/your-username/whitelist",
+    url="https://github.com/nekotea/nekro-agent-whitelist",
 )
 
 FilterMode = Literal["不拦截", "白名单", "黑名单"]
